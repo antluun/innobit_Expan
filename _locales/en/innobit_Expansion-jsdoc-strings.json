@@ -1,0 +1,13 @@
+{
+  "innobit_Expansion.LED_setPixelColor3": "Set the colors of three pixels",
+  "innobit_Expansion.LED_setPixelColor32": "Set the colors of three pixels\r\n\r\n with RGB values",
+  "innobit_Expansion.MP_Servo.maxAngle": "Get the maximum angle for the servo",
+  "innobit_Expansion.MP_Servo.minAngle": "Gets the minimum angle for the servo",
+  "innobit_Expansion.colors": "Get the RGB value of a known color",
+  "innobit_Expansion.createServo": "Set the angle of Servo",
+  "innobit_Expansion.motor_M1": "Initialise motor M1\r\n Set the motor speed\r\n (-255 to 255)",
+  "innobit_Expansion.motor_M2": "Initialise motor M2\r\n Set the motor speed\r\n (0 to 255)",
+  "innobit_Expansion.readData": "Get the temperature and humidity from DHT11 sensor",
+  "innobit_Expansion.readhumidity": "Get the humidity from DHT11 sensor",
+  "innobit_Expansion.readtemperature": "Get the temperature from DHT11 sensor"
+}
